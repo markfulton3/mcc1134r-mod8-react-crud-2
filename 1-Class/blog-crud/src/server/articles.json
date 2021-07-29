@@ -1,0 +1,79 @@
+{
+  "articles": [
+    {
+      "title": "Title 1",
+      "author": "Author 1",
+      "shortDescription": "Short Desc 1",
+      "longDescription": "Long Desc 1",
+      "mainImage": "Main Image 1",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Vinyl",
+      "author": "Mark Twain 1",
+      "publishDate": "2021-06-28",
+      "mainImage": "https://source.unsplash.com/collection/4324303/",
+      "shortDescription": "This is a short description 2",
+      "longDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "title": "esdf",
+      "author": "asdf",
+      "shortDescription": " fasdf ",
+      "longDescription": "asfd",
+      "mainImage": "asfd",
+      "id": 3
+    },
+    {
+      "title": "Title 4",
+      "author": "Author 4",
+      "shortDescription": "New Short 4a",
+      "longDescription": "long asdf asdf asdf asdf asdf asdf s4",
+      "mainImage": "mainImage 4",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "title": "Backgrounds",
+      "author": "Mark Twain 5",
+      "publishDate": "2021-06-28",
+      "mainImage": "https://source.unsplash.com/collection/2022043/",
+      "shortDescription": "This is a short description 2",
+      "longDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": 6,
+      "title": "Color Orange",
+      "author": "Mark Twain 6",
+      "publishDate": "2021-06-28",
+      "mainImage": "https://source.unsplash.com/collection/552980/",
+      "shortDescription": "This is a short description 2",
+      "longDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "title": "Title 9",
+      "author": "Mark Jones",
+      "shortDescription": "This is a short description",
+      "longDescription": "The is a long description...",
+      "mainImage": "main9image3",
+      "id": 9
+    },
+    {
+      "title": "11 Test",
+      "author": "asdf",
+      "shortDescription": "asdf",
+      "longDescription": "asd",
+      "mainImage": "ad",
+      "id": 11
+    },
+    {
+      "title": "asdf",
+      "author": "asdf",
+      "shortDescription": "",
+      "longDescription": "",
+      "mainImage": "",
+      "id": 12
+    }
+  ]
+}

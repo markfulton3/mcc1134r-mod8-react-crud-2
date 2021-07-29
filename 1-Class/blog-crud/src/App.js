@@ -4,7 +4,7 @@ import Contact from './pages/Contact';
 import About from './pages/About';
 import Articles from './pages/Articles';
 import Admin from './admin/Admin';
-import ArticleCreate from './admin/ArticleCreate';
+import ArticleUpsert from './admin/ArticleUpsert';
 import {Route, Switch} from 'react-router-dom';
 import Drawer from './components/Drawer';
 import settings from './data/settings';
@@ -43,7 +43,9 @@ const App = () => {
           <Route exact from="/about" render={props => <About {...props} />} />    
           <Route exact from="/articles" render={props => <Articles {...props} />} />    
           <Route exact from="/admin" render={props => <Admin {...props} />} />      
-          <Route exact from="/create-article" render={props => <ArticleCreate {...props} />} />
+          <Route exact from="/article/create" render={props => <ArticleUpsert {...props} />} />
+          <Route exact from="/article/edit/:id" render={props => <ArticleUpsert {...props} />} />
+          <Route exact from="/article/delete/:id" render={props => <ArticleUpsert {...props} />} />
         </Switch>
       </main>
     </div>
